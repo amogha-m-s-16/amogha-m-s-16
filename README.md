@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amoghams123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/amogha-m-s-16" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=amogha-m-s-16&label=Profile%20Views&color=2dd4bf&style=for-the-badge" alt="profile views" />
 
@@ -38,11 +38,13 @@ fun_fact: "git commit -m 'fixed it... probably'"
 
 ## 🛠️ Tech Stack & Ecosystem
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,react,fastapi,spring,postgres,docker,kubernetes,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 **💻 Languages**
 
@@ -63,7 +65,7 @@ fun_fact: "git commit -m 'fixed it... probably'"
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 **⚙️ Backend & Database**
 
@@ -85,6 +87,8 @@ fun_fact: "git commit -m 'fixed it... probably'"
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
 
@@ -145,7 +149,7 @@ Building and training models with PyTorch and TensorFlow, from experimentation t
 I'm always up for interesting projects, good ideas, and great collaborations — let's build something! 🚀
 
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:amoghams123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/amogha-m-s-16" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
