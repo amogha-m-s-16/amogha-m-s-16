@@ -1,216 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,55:080808,100:ff1f1f&text=AMOGHA%20M%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=DEVELOPER%20%E2%80%A2%20DSA%20%E2%80%A2%20ROBOTICS%20%E2%80%A2%20CREATIVE%20WEB&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+# `AMOGHA M S`
+
+### Full-Stack Developer · AI/ML Engineer · Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=800&lines=Building+scalable+software.;Training+intelligent+systems.;Designing+clean+interfaces.;Turning+ideas+into+products.;Always+learning.+Always+building." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=BUILDING+THINGS+THAT+SHOULD+EXIST.;SOLVING+PROBLEMS+ONE+ALGORITHM+AT+A+TIME.;EXPLORING+ROBOTICS+%26+3D+WEB.;TURNING+IDEAS+INTO+WORKING+SYSTEMS." />
-
-<br><br>
-
 <a href="https://github.com/amogha-m-s-16">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
 ---
 
-## `01` — HELLO, I'M AMOGHA.
-
-I'm a developer interested in the intersection of **software, algorithms, robotics and creative technology**.
-
-I like taking an idea from:
+## `01` — ABOUT ME
 
 ```text
-IDEA
- ↓
-EXPERIMENT
- ↓
-CODE
- ↓
-PROTOTYPE
- ↓
-SYSTEM
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  I'm a developer who enjoys building things from            │
+│  interfaces all the way to intelligent backend systems.     │
+│                                                             │
+│  I work across:                                             │
+│                                                             │
+│       FRONTEND  →  BACKEND  →  AI / ML  →  APIs             │
+│                                                             │
+│  My focus is writing software that is clean, scalable,       │
+│  useful and actually solves problems.                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-Currently exploring **Data Structures & Algorithms, modern web development, interactive 3D experiences and robotics**.
+### Currently interested in
 
-> `BUILD WITH PURPOSE. LEARN BY DOING.`
-
----
-
-## `02` — CURRENTLY
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🧠
-
-**DSA**
-
-Algorithms
-Data Structures
-Problem Solving
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻
-
-**WEB**
-
-JavaScript
-Three.js
-GSAP
-Interactive UI
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤖
-
-**ROBOTICS**
-
-Automation
-Electronics
-Prototyping
-
-</td>
-
-<td width="25%" align="center">
-
-### ⚡
-
-**BUILDING**
-
-Projects
-Experiments
-Ideas
-
-</td>
-</tr>
-</table>
+`Full-Stack Development` · `Backend Engineering` · `Artificial Intelligence` · `Machine Learning` · `System Design` · `Developer Tools`
 
 ---
 
-# `03` — TECH STACK
+# `02` — TECH STACK
 
 <div align="center">
 
-### LANGUAGES
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
-
-<br><br>
-
-### WEB & CREATIVE TECHNOLOGY
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,threejs,gsap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 <br><br>
 
-### TOOLS
+### BACKEND
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring" />
+
+<br><br>
+
+### AI / MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br><br>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 </div>
 
 ---
 
-# `04` — SELECTED WORK
+# `03` — WHAT I BUILD
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🤖 NEURO FORGE
+## ⚡
 
-**Robotics Club Experience**
+### FULL-STACK
 
-A futuristic web experience for a college robotics club.
+Modern web applications with clean interfaces, APIs and scalable architecture.
 
-Built around:
-
-`Three.js`
-`GSAP`
-`GLB / GLTF`
-`Interactive 3D`
-`Motion Design`
-
-**Focus →** immersive robotics + modern web.
+`React`
+`JavaScript`
+`Python`
+`Java`
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🧠 DSA
+## 🧠
 
-**Problem Solving Repository**
+### AI / ML
 
-A growing collection of Data Structures & Algorithms implementations and solutions.
+Machine-learning systems, deep-learning models and intelligent applications.
 
-`C++`
-
-**Focus →**
-
-Algorithms
-Optimization
-Complexity
-Problem Solving
-
-<br>
-
-<a href="https://github.com/amogha-m-s-16/DSA">→ Explore DSA</a>
+`TensorFlow`
+`PyTorch`
+`Python`
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+## ⚙️
 
-<td width="50%">
+### BACKEND
 
-### 🔴 LASER SECURITY
+Fast, structured and maintainable APIs and services.
 
-**Security Prototype**
-
-A laser-based security system exploring intrusion detection and alert mechanisms.
-
-**Focus →**
-
-`Electronics`
-`Sensors`
-`Security`
-
-</td>
-
-<td width="50%">
-
-### ⚡ NEXT BUILD
-
-**Something is loading...**
-
-New ideas are constantly being experimented with.
-
-```text
-STATUS
-████████████░░░░░░░░
-
-BUILDING...
-```
+`FastAPI`
+`Spring Boot`
+`REST APIs`
 
 </td>
 
@@ -219,75 +129,207 @@ BUILDING...
 
 ---
 
-# `05` — HOW I SOLVE PROBLEMS
+# `04` — ENGINEERING MINDSET
+
+I like working across the complete lifecycle of a product.
 
 ```text
-              ┌──────────────┐
-              │    PROBLEM   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ UNDERSTAND   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ FIND PATTERN │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ BUILD LOGIC  │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    CODE      │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   OPTIMIZE   │
-              └──────┬───────┘
-                     ↓
-                   SHIP ⚡
+                         IDEA
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   DESIGN    │
+                    └──────┬──────┘
+                           │
+                           ▼
+              ┌────────────────────────┐
+              │        BUILD           │
+              │                        │
+              │  Frontend + Backend    │
+              │  APIs + Database       │
+              │  AI / ML               │
+              └───────────┬────────────┘
+                          │
+                          ▼
+                    TEST & DEBUG
+                          │
+                          ▼
+                      OPTIMIZE
+                          │
+                          ▼
+                        SHIP 🚀
+```
+
+> **Good software isn't just about making something work. It's about making it understandable, maintainable and useful.**
+
+---
+
+# `05` — DEVELOPMENT AREAS
+
+### `FRONTEND`
+
+* Responsive web applications
+* Component-based architecture
+* Interactive interfaces
+* API integration
+* Modern JavaScript
+
+### `BACKEND`
+
+* REST API development
+* Authentication & authorization
+* Service architecture
+* API validation
+* Backend performance
+
+### `AI / ML`
+
+* Machine Learning
+* Deep Learning
+* Model training
+* Model evaluation
+* AI-powered applications
+
+### `ENGINEERING`
+
+* Clean code
+* Git workflows
+* API design
+* Debugging
+* Performance optimization
+
+---
+
+# `06` — PROJECTS
+
+<div align="center">
+
+### `PROJECTS > IDEAS`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 AI APPLICATIONS
+
+Intelligent applications combining machine-learning models with practical software systems.
+
+**Stack**
+
+`Python` `PyTorch` `TensorFlow` `FastAPI`
+
+</td>
+
+<td width="50%">
+
+### ⚡ FULL-STACK APPLICATIONS
+
+Modern web applications connecting polished React interfaces with powerful backend services.
+
+**Stack**
+
+`React` `JavaScript` `FastAPI` `Spring Boot`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔌 API SYSTEMS
+
+Structured backend services designed around clean APIs, validation and maintainability.
+
+**Stack**
+
+`FastAPI` `Spring Boot` `REST`
+
+</td>
+
+<td width="50%">
+
+### 🔬 EXPERIMENTS
+
+Small experiments, prototypes and ideas used to explore new technologies.
+
+**Stack**
+
+`Python` `JavaScript` `AI` `Web`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `07` — CURRENTLY LEARNING
+
+```text
+FULL-STACK ENGINEERING       █████████████████░░░
+
+BACKEND ARCHITECTURE         ████████████████░░░░
+
+MACHINE LEARNING             ███████████████░░░░░
+
+DEEP LEARNING                █████████████░░░░░░░
+
+SYSTEM DESIGN                ██████████░░░░░░░░░░
+
+CLOUD / DEVOPS               ████████░░░░░░░░░░░░
+```
+
+> Progress isn't a percentage. It's a direction.
+
+---
+
+# `08` — MY APPROACH
+
+```text
+01  Understand the problem
+        ↓
+02  Break it into smaller pieces
+        ↓
+03  Choose the right technology
+        ↓
+04  Build the simplest working version
+        ↓
+05  Test everything
+        ↓
+06  Find bottlenecks
+        ↓
+07  Improve the architecture
+        ↓
+08  Ship
 ```
 
 ---
 
-# `06` — WHAT I'M LEARNING
+# `09` — A LITTLE MORE ABOUT ME
 
 ```text
-██████████████████░░   Data Structures & Algorithms
-
-████████████████░░░░   Web Development
-
-██████████████░░░░░░   Three.js / 3D Web
-
-████████████░░░░░░░░   Robotics
-
-██████████░░░░░░░░░░   Advanced Problem Solving
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  I enjoy                                                     │
+│                                                         │
+│  → Building web applications                            │
+│  → Designing backend systems                             │
+│  → Exploring AI & machine learning                      │
+│  → Learning new frameworks                               │
+│  → Solving programming problems                          │
+│  → Turning ideas into working software                   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `07` — BEYOND CODE
-
-I don't want to simply write programs.
-
-I want to build **experiences, systems and machines**.
-
-```text
-SOFTWARE
-    ×
-HARDWARE
-    ×
-DESIGN
-    ×
-CREATIVITY
-```
-
-That's where the interesting stuff happens.
-
----
-
-# `08` — CONNECT
+# `10` — CONNECT
 
 <div align="center">
 
@@ -295,7 +337,7 @@ That's where the interesting stuff happens.
 <img src="https://img.shields.io/badge/GITHUB-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/LINKEDIN-FF3131?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -310,21 +352,17 @@ That's where the interesting stuff happens.
 <div align="center">
 
 ```text
-────────────────────────────────────────────────
+────────────────────────────────────────────────────────
 
-       LEARN  →  BUILD  →  BREAK  →  EVOLVE
+             BUILD  ·  LEARN  ·  IMPROVE
 
-────────────────────────────────────────────────
+────────────────────────────────────────────────────────
 ```
 
-### `THE NEXT VERSION IS ALWAYS BETTER.`
-
-</div>
+### `THE BEST PROJECT IS THE NEXT ONE.`
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:ff1f1f,50:160000,100:000000&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3131,50:220000,100:0D1117&section=footer" width="100%"/>
 
 </div>
