@@ -1,100 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,45:120000,75:240000,100:ff2020&text=A%20M%20S&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:160000,100:ff1a1a&text=HELLO,%20I'M%20A%20M%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=FF3131&center=true&vCenter=true&width=800&lines=BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME.;I+TURN+IDEAS+INTO+REALITY.;DSA+%7C+WEB+%7C+ROBOTICS+%7C+TECHNOLOGY;LEARN.+BUILD.+BREAK.+REPEAT.;WELCOME+TO+MY+DIGITAL+SPACE+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=700&lines=Building+ideas+into+reality+%F0%9F%9A%80;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Web+Development+%F0%9F%92%BB;Building+Robotics+Projects+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FF3131?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/FOCUS-DSA-FF3131?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/EXPLORING-ROBOTICS-FF3131?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/CRAFTING-WEB-FF3131?style=for-the-badge&labelColor=050505"/>
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge\&logo=github\&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=red)](https://github.com/YOUR_USERNAME)
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge\&logo=github\&label=STARS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-<br>
-
-# `01` — SYSTEM INITIALIZED
+# ⚡ WHO AM I?
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   HELLO, WORLD.                                             ║
-║                                                              ║
-║   I'm A M S — a developer who enjoys turning                ║
-║   ideas, problems and curiosity into working systems.        ║
-║                                                              ║
-║   ──────────────────────────────────────────────────────     ║
-║                                                              ║
-║   > THINK       → Understand the problem                     ║
-║   > BUILD       → Turn ideas into reality                    ║
-║   > BREAK       → Find what doesn't work                     ║
-║   > DEBUG       → Understand why                             ║
-║   > OPTIMIZE    → Make it better                             ║
-║   > REPEAT      → Keep evolving                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👋 Hey! I'm A M S                                         │
+│                                                              │
+│   💻 Developer                                               │
+│   🧠 DSA & Problem Solving Enthusiast                       │
+│   🤖 Robotics Explorer                                      │
+│   🌐 Web Development Enthusiast                             │
+│   🚀 Builder                                                │
+│                                                              │
+│   I enjoy turning ideas into working projects,              │
+│   breaking difficult problems into smaller pieces,           │
+│   and continuously learning new technologies.                │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-> **I don't just want to use technology. I want to understand it, experiment with it, and build with it.**
+> **"Code. Build. Break. Learn. Repeat."**
 
 ---
 
-# `02` — CURRENTLY RUNNING
+# 🧠 WHAT I'M CURRENTLY EXPLORING
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-```text
-                 ┌─────────────────────┐
-                 │      A M S.exe      │
-                 └──────────┬──────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-          🧠 DSA         💻 WEB         🤖 ROBOTICS
-             │              │              │
-             ▼              ▼              ▼
-         Algorithms      Interfaces      Systems
-         Structures      Experiences     Automation
-         Problem Solving  3D Web         Hardware
-```
+### 💻 Development
 
-</div>
+* 🌐 Web Development
+* ⚡ JavaScript
+* 🎨 Modern UI/UX
+* 🧩 Problem Solving
+* 🔧 Git & GitHub
+* 🚀 Building real-world projects
 
-<br>
+</td>
 
-| AREA            | WHAT I'M DOING                                                  |
-| :-------------- | :-------------------------------------------------------------- |
-| 🧠 **DSA**      | Learning algorithms, data structures & problem-solving patterns |
-| 💻 **Web**      | Building modern and interactive web experiences                 |
-| 🤖 **Robotics** | Exploring robotics, automation & intelligent systems            |
-| 🎨 **UI/UX**    | Experimenting with futuristic and interactive interfaces        |
-| ⚡ **Projects**  | Turning concepts into working prototypes                        |
+<td width="50%">
+
+### 🤖 Technology
+
+* 🧠 Data Structures & Algorithms
+* 🤖 Robotics
+* 🔬 Embedded Systems
+* 🎮 3D Web Experiences
+* ✨ Creative Technology
+* 📚 Continuous Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `03` — TECH STACK
+# 🛠️ TECH ARSENAL
 
 <div align="center">
 
-### `LANGUAGES`
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
 
-<br><br>
-
-### `WEB / CREATIVE`
+### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,threejs,gsap" />
 
-<br><br>
-
-### `TOOLS`
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
@@ -102,226 +94,222 @@
 
 ---
 
-# `04` — PROJECT ARCHIVE
+# 🚀 FEATURED PROJECTS
 
-### 🤖 `NEURO FORGE`
+<table>
+<tr>
 
-> **A futuristic digital home for a college robotics club.**
+<td width="50%">
 
-A modern robotics club website designed around immersive visuals, interactive 3D experiences and a futuristic technology aesthetic.
+## 🤖 Neuro Forge
 
-```text
-STACK
-─────
-HTML
-CSS
-JavaScript
-Three.js
-GSAP
-GLB / GLTF
-```
+**College Robotics Club Website**
 
-**Current direction:**
+A futuristic robotics club website focused on interactive 3D experiences and modern web design.
 
-`3D HUMANOID` → `INTERACTIVE UI` → `MOUSE TRACKING` → `CINEMATIC MOTION`
+**Tech**
 
----
+`HTML` `CSS` `JavaScript` `Three.js` `GSAP`
 
-### 🧠 `DSA LAB`
+</td>
 
-> **Where problems become patterns.**
+<td width="50%">
 
-A continuously evolving repository containing implementations and solutions for Data Structures & Algorithms.
+## 🧠 DSA Journey
 
-```text
-ARRAYS          LINKED LISTS
-STACKS          QUEUES
-TREES           GRAPHS
-SORTING         SEARCHING
-RECURSION       DYNAMIC PROGRAMMING
-```
+**Data Structures & Algorithms**
 
-**Philosophy:**
+A growing collection of implementations and problem-solving approaches covering fundamental and advanced DSA concepts.
 
-```text
-BRUTE FORCE
-     ↓
-UNDERSTAND
-     ↓
-OPTIMIZE
-     ↓
-ANALYZE
-     ↓
-IMPLEMENT
-```
+**Tech**
 
----
+`C++` `Algorithms` `Data Structures`
 
-### 🔴 `LASER SECURITY SYSTEM`
+</td>
 
-> **A hardware-focused security prototype.**
+</tr>
 
-A laser-based home security concept exploring intrusion detection and alert mechanisms without relying on a conventional Arduino-based controller.
+<tr>
 
-```text
-LASER
-  ↓
-DETECTION
-  ↓
-SIGNAL
-  ↓
-ALERT
-  ↓
-SECURITY
-```
+<td width="50%">
+
+## 🔐 Laser Security System
+
+**Home Security Prototype**
+
+A laser-based security concept designed to detect intrusion and trigger an alert mechanism.
+
+**Focus**
+
+`Electronics` `Sensors` `Security`
+
+</td>
+
+<td width="50%">
+
+## 🌐 More Projects
+
+**Always Building Something**
+
+Experiments, college projects, web experiences, robotics concepts and whatever interesting problem comes next.
+
+**Status**
+
+`BUILDING...`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `05` — THE DSA ENGINE
+# 🧩 DSA + PROBLEM SOLVING
+
+```text
+                         🧠 PROBLEM
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │ Understand it │
+                     └───────┬───────┘
+                             │
+                             ▼
+                    🔍 Find the Pattern
+                             │
+                             ▼
+                    🧱 Build the Approach
+                             │
+                             ▼
+                      💻 Write Code
+                             │
+                             ▼
+                    ⏱️ Analyze Complexity
+                             │
+                             ▼
+                       ⚡ Optimize
+                             │
+                             ▼
+                         🚀 Repeat
+```
+
+### Areas I'm Working On
+
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Recursion` · `Sorting` · `Searching` · `Dynamic Programming`
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-```text
-                  ┌──────────────┐
-                  │    PROBLEM   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │  UNDERSTAND  │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │ FIND PATTERN │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │ BRUTE FORCE  │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   OPTIMIZE   │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │    CODE      │
-                  └──────┬───────┘
-                         ↓
-                  ┌──────────────┐
-                  │   ANALYZE    │
-                  └──────┬───────┘
-                         ↓
-                       ⚡
-                    IMPROVE
-```
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" height="180"/>
 
-</div>
-
-### Areas of Focus
-
-`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Hashing` · `Recursion` · `Sorting` · `Searching` · `Greedy` · `Dynamic Programming`
-
----
-
-# `06` — GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&ring_color=FF3131" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=FF3131&text_color=FFFFFF" width="42%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050505&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF" height="180"/>
 
 </div>
 
 ---
 
-# `07` — CONTRIBUTION MATRIX
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=ffffff&line=ff3131&point=ffffff&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" width="96%"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" width="70%"/>
 
 </div>
 
 ---
 
-# `08` — ACHIEVEMENTS
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# `09` — DEVELOPER PROTOCOL
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
+
+</div>
+
+---
+
+# ⚙️ MY DEVELOPER MINDSET
 
 ```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│  01  STAY CURIOUS                                     │
-│      └── Never stop asking "why?"                     │
-│                                                       │
-│  02  BUILD THINGS                                     │
-│      └── Ideas become valuable when implemented.      │
-│                                                       │
-│  03  EMBRACE FAILURE                                  │
-│      └── Bugs are part of the learning process.       │
-│                                                       │
-│  04  KEEP IT SIMPLE                                   │
-│      └── Complexity should have a reason.             │
-│                                                       │
-│  05  KEEP EVOLVING                                    │
-│      └── Today's solution can be tomorrow's baseline. │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────┐
+│                                               │
+│   🧠 THINK                                    │
+│       ↓                                       │
+│   🔍 EXPLORE                                  │
+│       ↓                                       │
+│   💻 BUILD                                    │
+│       ↓                                       │
+│   🐛 DEBUG                                    │
+│       ↓                                       │
+│   ⚡ OPTIMIZE                                 │
+│       ↓                                       │
+│   🚀 SHIP                                     │
+│       ↓                                       │
+│   📚 LEARN                                    │
+│       ↓                                       │
+│   🔁 REPEAT                                   │
+│                                               │
+└───────────────────────────────────────────────┘
 ```
 
 ---
 
-# `10` — BEYOND THE TERMINAL
+# 🌌 BEYOND CODE
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  CODE IS ONLY ONE PART OF THE JOURNEY.                     │
-│                                                            │
-│  I enjoy exploring the intersection of:                   │
-│                                                            │
-│       SOFTWARE × HARDWARE × DESIGN × CREATIVITY            │
-│                                                            │
-│  From algorithms to robots.                                │
-│  From interfaces to physical prototypes.                  │
-│  From a blank screen to something that actually works.    │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+I don't want to just **write code**.
+
+I want to:
+
+**Build things people can interact with.**
+**Understand how systems work.**
+**Solve problems that actually matter.**
+**Experiment with robotics and emerging technology.**
+**Create experiences that people remember.**
 
 ---
 
-# `11` — CONNECT
+# 📫 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+<img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+# 💭 RANDOM DEVELOPER THOUGHT
+
+<div align="center">
+
+### `"The best way to learn technology is to build something with it."`
+
+<br>
+
+**Currently:** `Learning → Building → Improving`
 
 </div>
 
@@ -329,16 +317,10 @@ SECURITY
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║               LEARN  →  BUILD  →  EVOLVE                ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:160000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-### ⚡ `THE SYSTEM IS STILL RUNNING...`
+### ⚡ BUILD SOMETHING. BREAK SOMETHING. LEARN SOMETHING.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:ff2020,50:240000,100:000000&section=footer" width="100%"/>
+**Thanks for visiting my profile! 🚀**
 
 </div>
