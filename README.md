@@ -1,72 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:160000,100:ff1a1a&text=HELLO,%20I'M%20A%20M%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,55:080808,100:ff1f1f&text=AMOGHA%20M%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=DEVELOPER%20%E2%80%A2%20DSA%20%E2%80%A2%20ROBOTICS%20%E2%80%A2%20CREATIVE%20WEB&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=700&lines=Building+ideas+into+reality+%F0%9F%9A%80;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Web+Development+%F0%9F%92%BB;Building+Robotics+Projects+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=BUILDING+THINGS+THAT+SHOULD+EXIST.;SOLVING+PROBLEMS+ONE+ALGORITHM+AT+A+TIME.;EXPLORING+ROBOTICS+%26+3D+WEB.;TURNING+IDEAS+INTO+WORKING+SYSTEMS." />
 
 <br><br>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge\&logo=github\&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=red)](https://github.com/YOUR_USERNAME)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge\&logo=github\&label=STARS)](https://github.com/YOUR_USERNAME)
+<a href="https://github.com/amogha-m-s-16">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
+</a>
 
 </div>
 
 ---
 
-# ⚡ WHO AM I?
+## `01` — HELLO, I'M AMOGHA.
+
+I'm a developer interested in the intersection of **software, algorithms, robotics and creative technology**.
+
+I like taking an idea from:
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   👋 Hey! I'm A M S                                         │
-│                                                              │
-│   💻 Developer                                               │
-│   🧠 DSA & Problem Solving Enthusiast                       │
-│   🤖 Robotics Explorer                                      │
-│   🌐 Web Development Enthusiast                             │
-│   🚀 Builder                                                │
-│                                                              │
-│   I enjoy turning ideas into working projects,              │
-│   breaking difficult problems into smaller pieces,           │
-│   and continuously learning new technologies.                │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+IDEA
+ ↓
+EXPERIMENT
+ ↓
+CODE
+ ↓
+PROTOTYPE
+ ↓
+SYSTEM
 ```
 
-> **"Code. Build. Break. Learn. Repeat."**
+Currently exploring **Data Structures & Algorithms, modern web development, interactive 3D experiences and robotics**.
+
+> `BUILD WITH PURPOSE. LEARN BY DOING.`
 
 ---
 
-# 🧠 WHAT I'M CURRENTLY EXPLORING
+## `02` — CURRENTLY
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" align="center">
 
-### 💻 Development
+### 🧠
 
-* 🌐 Web Development
-* ⚡ JavaScript
-* 🎨 Modern UI/UX
-* 🧩 Problem Solving
-* 🔧 Git & GitHub
-* 🚀 Building real-world projects
+**DSA**
+
+Algorithms
+Data Structures
+Problem Solving
 
 </td>
 
-<td width="50%">
+<td width="25%" align="center">
 
-### 🤖 Technology
+### 💻
 
-* 🧠 Data Structures & Algorithms
-* 🤖 Robotics
-* 🔬 Embedded Systems
-* 🎮 3D Web Experiences
-* ✨ Creative Technology
-* 📚 Continuous Learning
+**WEB**
+
+JavaScript
+Three.js
+GSAP
+Interactive UI
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+
+**ROBOTICS**
+
+Automation
+Electronics
+Prototyping
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚡
+
+**BUILDING**
+
+Projects
+Experiments
+Ideas
 
 </td>
 </tr>
@@ -74,19 +105,23 @@
 
 ---
 
-# 🛠️ TECH ARSENAL
+# `03` — TECH STACK
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" />
 
-### Frameworks & Libraries
+<br><br>
+
+### WEB & CREATIVE TECHNOLOGY
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,threejs,gsap" />
 
-### Tools
+<br><br>
+
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
@@ -94,36 +129,51 @@
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# `04` — SELECTED WORK
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 🤖 Neuro Forge
+### 🤖 NEURO FORGE
 
-**College Robotics Club Website**
+**Robotics Club Experience**
 
-A futuristic robotics club website focused on interactive 3D experiences and modern web design.
+A futuristic web experience for a college robotics club.
 
-**Tech**
+Built around:
 
-`HTML` `CSS` `JavaScript` `Three.js` `GSAP`
+`Three.js`
+`GSAP`
+`GLB / GLTF`
+`Interactive 3D`
+`Motion Design`
+
+**Focus →** immersive robotics + modern web.
 
 </td>
 
 <td width="50%">
 
-## 🧠 DSA Journey
+### 🧠 DSA
 
-**Data Structures & Algorithms**
+**Problem Solving Repository**
 
-A growing collection of implementations and problem-solving approaches covering fundamental and advanced DSA concepts.
+A growing collection of Data Structures & Algorithms implementations and solutions.
 
-**Tech**
+`C++`
 
-`C++` `Algorithms` `Data Structures`
+**Focus →**
+
+Algorithms
+Optimization
+Complexity
+Problem Solving
+
+<br>
+
+<a href="https://github.com/amogha-m-s-16/DSA">→ Explore DSA</a>
 
 </td>
 
@@ -133,29 +183,34 @@ A growing collection of implementations and problem-solving approaches covering 
 
 <td width="50%">
 
-## 🔐 Laser Security System
+### 🔴 LASER SECURITY
 
-**Home Security Prototype**
+**Security Prototype**
 
-A laser-based security concept designed to detect intrusion and trigger an alert mechanism.
+A laser-based security system exploring intrusion detection and alert mechanisms.
 
-**Focus**
+**Focus →**
 
-`Electronics` `Sensors` `Security`
+`Electronics`
+`Sensors`
+`Security`
 
 </td>
 
 <td width="50%">
 
-## 🌐 More Projects
+### ⚡ NEXT BUILD
 
-**Always Building Something**
+**Something is loading...**
 
-Experiments, college projects, web experiences, robotics concepts and whatever interesting problem comes next.
+New ideas are constantly being experimented with.
 
-**Status**
+```text
+STATUS
+████████████░░░░░░░░
 
-`BUILDING...`
+BUILDING...
+```
 
 </td>
 
@@ -164,163 +219,112 @@ Experiments, college projects, web experiences, robotics concepts and whatever i
 
 ---
 
-# 🧩 DSA + PROBLEM SOLVING
+# `05` — HOW I SOLVE PROBLEMS
 
 ```text
-                         🧠 PROBLEM
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │ Understand it │
-                     └───────┬───────┘
-                             │
-                             ▼
-                    🔍 Find the Pattern
-                             │
-                             ▼
-                    🧱 Build the Approach
-                             │
-                             ▼
-                      💻 Write Code
-                             │
-                             ▼
-                    ⏱️ Analyze Complexity
-                             │
-                             ▼
-                       ⚡ Optimize
-                             │
-                             ▼
-                         🚀 Repeat
-```
-
-### Areas I'm Working On
-
-`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Recursion` · `Sorting` · `Searching` · `Dynamic Programming`
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF" height="180"/>
-
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" width="70%"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
-
-</div>
-
----
-
-# ⚙️ MY DEVELOPER MINDSET
-
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   🧠 THINK                                    │
-│       ↓                                       │
-│   🔍 EXPLORE                                  │
-│       ↓                                       │
-│   💻 BUILD                                    │
-│       ↓                                       │
-│   🐛 DEBUG                                    │
-│       ↓                                       │
-│   ⚡ OPTIMIZE                                 │
-│       ↓                                       │
-│   🚀 SHIP                                     │
-│       ↓                                       │
-│   📚 LEARN                                    │
-│       ↓                                       │
-│   🔁 REPEAT                                   │
-│                                               │
-└───────────────────────────────────────────────┘
+              ┌──────────────┐
+              │    PROBLEM   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │ UNDERSTAND   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │ FIND PATTERN │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │ BUILD LOGIC  │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    CODE      │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   OPTIMIZE   │
+              └──────┬───────┘
+                     ↓
+                   SHIP ⚡
 ```
 
 ---
 
-# 🌌 BEYOND CODE
+# `06` — WHAT I'M LEARNING
 
-I don't want to just **write code**.
+```text
+██████████████████░░   Data Structures & Algorithms
 
-I want to:
+████████████████░░░░   Web Development
 
-**Build things people can interact with.**
-**Understand how systems work.**
-**Solve problems that actually matter.**
-**Experiment with robotics and emerging technology.**
-**Create experiences that people remember.**
+██████████████░░░░░░   Three.js / 3D Web
+
+████████████░░░░░░░░   Robotics
+
+██████████░░░░░░░░░░   Advanced Problem Solving
+```
 
 ---
 
-# 📫 CONNECT WITH ME
+# `07` — BEYOND CODE
+
+I don't want to simply write programs.
+
+I want to build **experiences, systems and machines**.
+
+```text
+SOFTWARE
+    ×
+HARDWARE
+    ×
+DESIGN
+    ×
+CREATIVITY
+```
+
+That's where the interesting stuff happens.
+
+---
+
+# `08` — CONNECT
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/amogha-m-s-16">
+<img src="https://img.shields.io/badge/GITHUB-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-FF3131?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-# 💭 RANDOM DEVELOPER THOUGHT
+<br>
 
 <div align="center">
 
-### `"The best way to learn technology is to build something with it."`
+```text
+────────────────────────────────────────────────
 
-<br>
+       LEARN  →  BUILD  →  BREAK  →  EVOLVE
 
-**Currently:** `Learning → Building → Improving`
+────────────────────────────────────────────────
+```
+
+### `THE NEXT VERSION IS ALWAYS BETTER.`
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:160000,100:000000&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-### ⚡ BUILD SOMETHING. BREAK SOMETHING. LEARN SOMETHING.
-
-**Thanks for visiting my profile! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:ff1f1f,50:160000,100:000000&section=footer" width="100%"/>
 
 </div>
