@@ -107,14 +107,6 @@ fun_fact: "git commit -m 'fixed it... probably'"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amogha-m-s-16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
-
 ## ⭐ Featured Focus Areas
 
 <table align="center">
@@ -158,7 +150,6 @@ I'm always up for interesting projects, good ideas, and great collaborations —
 
 <br/>
 
-**Designed with 💚 by Amogha M S**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,25&section=footer" width="100%"/>
 
