@@ -1,10 +1,10 @@
 <div align="center">
 
-# `AMOGHA M S`
+# AMOGHA M S
 
-### Full-Stack Developer · AI/ML Engineer · Problem Solver
+### `Future Software Engineer` · `AI/ML Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=800&lines=Building+scalable+software.;Training+intelligent+systems.;Designing+clean+interfaces.;Turning+ideas+into+products.;Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=FF3131&center=true&vCenter=true&width=760&lines=Building+software+that+solves+real+problems.;Learning+how+great+systems+are+built.;Exploring+AI%2FML+along+the+way.;Turning+ideas+into+working+products." />
 
 <br>
 
@@ -15,60 +15,78 @@
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3131"/>
 </a>
 
 </div>
 
 ---
 
-## `01` — ABOUT ME
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  I'm a developer who enjoys building things from            │
-│  interfaces all the way to intelligent backend systems.     │
-│                                                             │
-│  I work across:                                             │
-│                                                             │
-│       FRONTEND  →  BACKEND  →  AI / ML  →  APIs             │
-│                                                             │
-│  My focus is writing software that is clean, scalable,       │
-│  useful and actually solves problems.                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+SOFTWARE ENGINEERING
+        +
+   PROBLEM SOLVING
+        +
+     AI / ML
+        ↓
+   BUILDING USEFUL
+     SOFTWARE
 ```
 
-### Currently interested in
-
-`Full-Stack Development` · `Backend Engineering` · `Artificial Intelligence` · `Machine Learning` · `System Design` · `Developer Tools`
+</div>
 
 ---
 
-# `02` — TECH STACK
+## `01` — WHO AM I?
+
+I'm an aspiring **Software Engineer** interested in building reliable, scalable and useful software.
+
+My primary focus is **software development** — from writing clean frontend applications to designing backend services and APIs.
+
+Alongside that, I'm exploring **AI/ML** to understand how intelligent systems can be integrated into real-world software.
+
+```text
+                    SOFTWARE
+                       │
+          ┌────────────┼────────────┐
+          ↓            ↓            ↓
+       FRONTEND     BACKEND       AI / ML
+          │            │            │
+        React       FastAPI      TensorFlow
+       JavaScript   Spring Boot   PyTorch
+          │            │            │
+          └────────────┼────────────┘
+                       ↓
+                  REAL PRODUCTS
+```
+
+---
+
+# `02` — MY TECH STACK
 
 <div align="center">
 
-### FRONTEND
+### SOFTWARE DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java" />
 
 <br><br>
 
 ### BACKEND
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,spring" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring" />
 
 <br><br>
 
-### AI / MACHINE LEARNING
+### AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 <br><br>
 
-### DEVELOPMENT TOOLS
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
@@ -76,260 +94,210 @@
 
 ---
 
-# `03` — WHAT I BUILD
+# `03` — WHAT I'M FOCUSED ON
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%">
 
-## ⚡
+### 💻 SOFTWARE ENGINEERING
 
-### FULL-STACK
+My primary focus.
 
-Modern web applications with clean interfaces, APIs and scalable architecture.
-
-`React`
-`JavaScript`
-`Python`
-`Java`
-
-</td>
-
-<td width="33%" align="center">
-
-## 🧠
-
-### AI / ML
-
-Machine-learning systems, deep-learning models and intelligent applications.
-
-`TensorFlow`
-`PyTorch`
-`Python`
+* Full-stack development
+* Backend engineering
+* REST APIs
+* Application architecture
+* Clean & maintainable code
+* Problem solving
+* Data Structures & Algorithms
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%">
 
-## ⚙️
+### 🧠 AI / ML
 
-### BACKEND
-
-Fast, structured and maintainable APIs and services.
-
-`FastAPI`
-`Spring Boot`
-`REST APIs`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `04` — ENGINEERING MINDSET
-
-I like working across the complete lifecycle of a product.
-
-```text
-                         IDEA
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   DESIGN    │
-                    └──────┬──────┘
-                           │
-                           ▼
-              ┌────────────────────────┐
-              │        BUILD           │
-              │                        │
-              │  Frontend + Backend    │
-              │  APIs + Database       │
-              │  AI / ML               │
-              └───────────┬────────────┘
-                          │
-                          ▼
-                    TEST & DEBUG
-                          │
-                          ▼
-                      OPTIMIZE
-                          │
-                          ▼
-                        SHIP 🚀
-```
-
-> **Good software isn't just about making something work. It's about making it understandable, maintainable and useful.**
-
----
-
-# `05` — DEVELOPMENT AREAS
-
-### `FRONTEND`
-
-* Responsive web applications
-* Component-based architecture
-* Interactive interfaces
-* API integration
-* Modern JavaScript
-
-### `BACKEND`
-
-* REST API development
-* Authentication & authorization
-* Service architecture
-* API validation
-* Backend performance
-
-### `AI / ML`
+A growing area of interest.
 
 * Machine Learning
 * Deep Learning
-* Model training
+* Model development
 * Model evaluation
+* TensorFlow
+* PyTorch
 * AI-powered applications
-
-### `ENGINEERING`
-
-* Clean code
-* Git workflows
-* API design
-* Debugging
-* Performance optimization
-
----
-
-# `06` — PROJECTS
-
-<div align="center">
-
-### `PROJECTS > IDEAS`
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🧠 AI APPLICATIONS
-
-Intelligent applications combining machine-learning models with practical software systems.
-
-**Stack**
-
-`Python` `PyTorch` `TensorFlow` `FastAPI`
-
-</td>
-
-<td width="50%">
-
-### ⚡ FULL-STACK APPLICATIONS
-
-Modern web applications connecting polished React interfaces with powerful backend services.
-
-**Stack**
-
-`React` `JavaScript` `FastAPI` `Spring Boot`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🔌 API SYSTEMS
-
-Structured backend services designed around clean APIs, validation and maintainability.
-
-**Stack**
-
-`FastAPI` `Spring Boot` `REST`
-
-</td>
-
-<td width="50%">
-
-### 🔬 EXPERIMENTS
-
-Small experiments, prototypes and ideas used to explore new technologies.
-
-**Stack**
-
-`Python` `JavaScript` `AI` `Web`
 
 </td>
 
 </tr>
 </table>
+
+---
+
+# `04` — BUILDING MY FOUNDATION
+
+```text
+                    SOFTWARE ENGINEER
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      FUNDAMENTALS      DEVELOPMENT      SYSTEMS
+          │                │                │
+       DSA             Frontend          APIs
+       OOP             Backend           Databases
+       Git             Frameworks        Architecture
+       Problem         Testing           Scalability
+       Solving         Deployment        Security
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                     REAL PROJECTS
+                           │
+                           ▼
+                       🚀 SHIP
+```
+
+---
+
+# `05` — PROJECTS
+
+I learn best by building.
+
+### ⚡ FULL-STACK APPLICATIONS
+
+Building applications that connect modern interfaces with structured backend systems.
+
+**Stack**
+
+`React` · `JavaScript` · `FastAPI` · `Spring Boot`
+
+---
+
+### 🔌 BACKEND & API PROJECTS
+
+Exploring how reliable backend services are designed, structured and connected to applications.
+
+**Stack**
+
+`Python` · `FastAPI` · `Java` · `Spring Boot` · `REST`
+
+---
+
+### 🧠 AI-POWERED APPLICATIONS
+
+Experimenting with integrating machine learning into practical software rather than treating AI as an isolated model.
+
+**Stack**
+
+`Python` · `TensorFlow` · `PyTorch` · `FastAPI`
+
+---
+
+# `06` — HOW I THINK
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  UNDERSTAND                                   │
+│       ↓                                       │
+│  BREAK THE PROBLEM DOWN                       │
+│       ↓                                       │
+│  DESIGN A SIMPLE SOLUTION                     │
+│       ↓                                       │
+│  WRITE CLEAN CODE                              │
+│       ↓                                       │
+│  TEST                                         │
+│       ↓                                       │
+│  OPTIMIZE                                     │
+│       ↓                                       │
+│  SHIP                                         │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+> **I care more about understanding the problem than jumping straight into the code.**
 
 ---
 
 # `07` — CURRENTLY LEARNING
 
 ```text
-FULL-STACK ENGINEERING       █████████████████░░░
+Software Engineering       ██████████████████░░
 
-BACKEND ARCHITECTURE         ████████████████░░░░
+Data Structures & Algo     ████████████████░░░░
 
-MACHINE LEARNING             ███████████████░░░░░
+Backend Development        ███████████████░░░░░
 
-DEEP LEARNING                █████████████░░░░░░░
+System Design              ███████████░░░░░░░░░
 
-SYSTEM DESIGN                ██████████░░░░░░░░░░
+Machine Learning            █████████████░░░░░░░
 
-CLOUD / DEVOPS               ████████░░░░░░░░░░░░
+Deep Learning               ██████████░░░░░░░░░░
 ```
 
-> Progress isn't a percentage. It's a direction.
+### Current priorities
+
+`DSA` → `Backend` → `System Design` → `Full-Stack` → `AI/ML`
 
 ---
 
-# `08` — MY APPROACH
+# `08` — THE LONG-TERM GOAL
 
 ```text
-01  Understand the problem
-        ↓
-02  Break it into smaller pieces
-        ↓
-03  Choose the right technology
-        ↓
-04  Build the simplest working version
-        ↓
-05  Test everything
-        ↓
-06  Find bottlenecks
-        ↓
-07  Improve the architecture
-        ↓
-08  Ship
+TODAY
+  │
+  ├── Learn fundamentals
+  │
+  ├── Build projects
+  │
+  ├── Solve problems
+  │
+  ├── Understand systems
+  │
+  ├── Improve engineering skills
+  │
+  └── Explore AI/ML
+          │
+          ▼
+   ┌──────────────────┐
+   │ SOFTWARE ENGINEER│
+   └──────────────────┘
 ```
+
+I'm working toward becoming a **strong software engineer** who can build products end-to-end and use AI/ML when it actually adds value.
 
 ---
 
-# `09` — A LITTLE MORE ABOUT ME
+# `09` — BEYOND THE CODE
+
+I enjoy the process of taking something from:
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  I enjoy                                                     │
-│                                                         │
-│  → Building web applications                            │
-│  → Designing backend systems                             │
-│  → Exploring AI & machine learning                      │
-│  → Learning new frameworks                               │
-│  → Solving programming problems                          │
-│  → Turning ideas into working software                   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+              "What if...?"
+                    ↓
+                  IDEA
+                    ↓
+                 DESIGN
+                    ↓
+                  CODE
+                    ↓
+                DEBUGGING
+                    ↓
+                ITERATION
+                    ↓
+                SOMETHING
+                THAT WORKS
 ```
+
+Every project is an opportunity to learn something new.
 
 ---
 
-# `10` — CONNECT
+# `10` — LET'S CONNECT
 
 <div align="center">
 
@@ -345,24 +313,20 @@ CLOUD / DEVOPS               ████████░░░░░░░░░
 <img src="https://img.shields.io/badge/EMAIL-FF3131?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ```text
-────────────────────────────────────────────────────────
+────────────────────────────────────────────────────
 
-             BUILD  ·  LEARN  ·  IMPROVE
+       BUILD  ·  LEARN  ·  SOLVE  ·  EVOLVE
 
-────────────────────────────────────────────────────────
+────────────────────────────────────────────────────
 ```
 
-### `THE BEST PROJECT IS THE NEXT ONE.`
+### `THE JOURNEY TO SOFTWARE ENGINEERING STARTS HERE.`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3131,50:220000,100:0D1117&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3131,45:250000,100:0D1117&section=footer" width="100%"/>
 
 </div>
