@@ -40,7 +40,7 @@ fun_fact: "git commit -m 'fixed it... probably'"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,react,fastapi,spring,postgres,docker,kubernetes,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,tailwindcss,react,fastapi,spring,postgres,docker,kubernetes,aws,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
 
 <table>
 <tr>
@@ -54,6 +54,7 @@ fun_fact: "git commit -m 'fixed it... probably'"
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 
 **🎨 Frontend**
 
