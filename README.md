@@ -59,6 +59,7 @@ fun_fact: "git commit -m 'fixed it... probably'"
 **🎨 Frontend**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
 
 **🤖 AI / Machine Learning**
 
