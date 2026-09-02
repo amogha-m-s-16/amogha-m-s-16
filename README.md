@@ -31,7 +31,7 @@ fun_fact: "git commit -m 'fixed it... probably'"
 - 🐳 Shipping everything containerized with **Docker**, orchestrated with **Kubernetes**
 - 🤖 Training and experimenting with models in **PyTorch** and **TensorFlow**
 - 🌱 Sharpening core fundamentals with **Data Structures & Algorithms** in C++
-- 💬 Ask me about: `React` `FastAPI` `Spring Boot` `PostgreSQL` `Docker` `Kubernetes`
+- 💬 Ask me about: `React` `FastAPI` `Spring Boot` `MySQL` `Docker` `Kubernetes`
 - ⚡ Fun fact: I debug faster with coffee ☕
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
