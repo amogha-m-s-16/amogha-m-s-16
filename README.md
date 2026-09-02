@@ -40,7 +40,7 @@ fun_fact: "git commit -m 'fixed it... probably'"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,tailwindcss,react,fastapi,spring,postgres,docker,kubernetes,aws,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,html,css,tailwindcss,react,fastapi,spring,mysql,dotnet,docker,kubernetes,azure,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
 
 <table>
 <tr>
