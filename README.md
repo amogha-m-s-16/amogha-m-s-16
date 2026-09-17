@@ -36,45 +36,11 @@ fun_fact: "I turn coffee into code and bugs into features 🐛→✨"
 
 ## 🛠️ Tech Stack
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,react&theme=dark" /> <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,spring,fastapi,mysql,postgresql,docker,azure&theme=dark" /> <br />
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" />
 </p>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=dark" />
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 AI / Machine Learning</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ Tools & Platforms</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github,vscode&theme=dark" />
-</p>
-</details>
 
 <br/>
 
