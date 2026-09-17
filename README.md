@@ -1,82 +1,84 @@
-<!-- ======================= HEADER ======================= -->
+<h1 align="center">Hi 👋, I'm Amogha M S</h1>
+<h3 align="center">Problem Solver · DSA Enthusiast · C++ Developer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=AMOGHA%20M%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<!-- ======================= TYPING ======================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Amogha+M+S+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI%2FML+Explorer+%F0%9F%A4%96;Building+Things+That+Actually+Work+%E2%9A%A1;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:5f31a1&height=200&section=header&text=amogha-m-s-16&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20strong%20fundamentals%2C%20one%20problem%20at%20a%20time&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amogha-m-s-16&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+- 🔭 Currently sharpening my **Data Structures & Algorithms** skills through consistent, hands-on practice
+- 🌱 Learning to spot **patterns** instead of memorizing solutions
+- 💻 Comfortable working in **C++**, with a growing focus on problem-solving and complexity analysis
+- 📌 Maintainer of [**algoGrind**](https://github.com/amogha-m-s-16/DSA) — my personal DSA practice vault
+- ⚡ Fun fact: I'd rather ask *"can it be faster?"* than just *"does it work?"*
 
-```text
-I'm a developer who loves turning ideas into code.
+---
 
-💻 Software Development
-🌐 Web Development
-⚙️ Backend Engineering
-🤖 AI / Machine Learning
-🧩 Data Structures & Algorithms
-🚀 Building & Experimenting
+### 🗺️ What I'm Working On
+
+```
+                        🧠 DSA JOURNEY
+                              │
+         ┌────────────────────┼────────────────────┐
+         │                    │                    │
+    📦 DATA STRUCTURES    ⚙️ ALGORITHMS        🧩 PATTERNS
+         │                    │                    │
+   Arrays · Strings      Sorting · Searching   Two Pointers
+   Linked Lists          Recursion              Sliding Window
+   Stacks · Queues       Backtracking           Binary Search
 ```
 
-* 🔭 Currently building **software & AI/ML projects**
-* 🌱 Learning **advanced backend development and AI/ML**
-* 💡 Interested in **Software Engineering + Artificial Intelligence**
-* 🧩 Improving my **DSA & problem-solving skills**
-* 🎨 Interested in modern and interactive web experiences
-* ⚡ I learn best by **building real projects**
-* 🎯 Working towards becoming a **strong Software Engineer**
+---
 
-<br clear="right"/>
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-# ⚔️ Tech Arsenal
-
-### 🌐 Frontend & 3D
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,threejs&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amogha-m-s-16&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amogha-m-s-16&theme=radical&hide_border=true" />
 </p>
-
-### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,python&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogha-m-s-16&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-### ⚙️ Backend & APIs
+---
+
+### 📌 Featured Repository
+
+<a href="https://github.com/amogha-m-s-16/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amogha-m-s-16&repo=DSA&theme=radical&hide_border=true" />
+</a>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/amogha-m-s-16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f31a1,50:1a1a2e,100:0f0f0f&height=100&section=footer" />
 </p>
 
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,azure&theme=dark" />
-</p>
+<p align="center"><i>⭐ From <a href="https://github.com/amogha-m-s-16">amogha-m-s-16</a> — one problem at a time.</i></p>
