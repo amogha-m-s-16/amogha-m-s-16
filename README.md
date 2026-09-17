@@ -39,7 +39,7 @@ fun_fact: "I turn coffee into code and bugs into features 🐛→✨"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,react&theme=dark" /> <br />
   <img src="https://skillicons.dev/icons?i=tailwind,nodejs,spring,fastapi,mysql,postgresql,docker,azure&theme=dark" /> <br />
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 <br/>
