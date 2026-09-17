@@ -1,158 +1,281 @@
-<div align="center">
+# Hey, I'm AMOGHA M S 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,25&text=Amogha%20M%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+### `Software Developer` · `AI/ML Explorer` · `Problem Solver`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=700&lines=Building+with+React+%2B+FastAPI+%2B+Spring+Boot;Deploying+with+Docker+%26+Kubernetes+%F0%9F%90%B3;Training+models+with+PyTorch+%26+TensorFlow+%F0%9F%A4%96;Always+shipping.+Always+learning.+%E2%9A%A1" alt="Typing SVG" />
+I build things that sit at the intersection of **software engineering, intelligent systems, and modern web experiences**.
 
-<br/>
+I'm currently focused on becoming a strong **Software Engineer**, while exploring **AI/ML, backend systems, and creative web development**.
 
-<a href="https://www.linkedin.com/in/amogha-m-s-529014378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="amoghams123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/amogha-m-s-16" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=amogha-m-s-16&label=Profile%20Views&color=2dd4bf&style=for-the-badge" alt="profile views" />
+> **Think → Build → Break → Learn → Improve → Repeat.**
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
+## 🧠 About Me
 
-## 🚀 About Me
-
-```yaml
-name: Amogha M S
-role: Full-Stack Developer & ML Enthusiast
-location: India 🇮🇳
-currently_building: Web apps with React, FastAPI & Spring Boot
-currently_exploring: Deep learning with PyTorch & TensorFlow
-deploying_with: Docker 🐳 & Kubernetes ☸️
-fun_fact: "git commit -m 'fixed it... probably'"
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👨‍💻  Building software                                     │
+│  🧩  Solving problems with DSA                              │
+│  🤖  Exploring AI / Machine Learning                        │
+│  🌐  Creating modern web experiences                        │
+│  ⚙️  Learning backend & system development                   │
+│  🚀  Turning ideas into working projects                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-- 🔭 Currently building end-to-end apps — **React** frontends talking to **FastAPI / Spring Boot** backends, backed by **PostgreSQL**
-- 🐳 Shipping everything containerized with **Docker**, orchestrated with **Kubernetes**
-- 🤖 Training and experimenting with models in **PyTorch** and **TensorFlow**
-- 🌱 Sharpening core fundamentals with **Data Structures & Algorithms** in C++
-- 💬 Ask me about: `React` `FastAPI` `Spring Boot` `MySQL` `Docker` `Kubernetes`
-- ⚡ Fun fact: I debug faster with coffee ☕
+* 💻 Interested in **Software Engineering & Full-Stack Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* ⚡ Building applications with **React, Python and FastAPI**
+* ☕ Working with **Java & Spring Boot**
+* 🎨 Interested in modern UI/UX and interactive web experiences
+* 🔧 Learning by building real projects instead of only following tutorials
+* 📚 Continuously improving my engineering fundamentals
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
+---
 
-## 🛠️ Tech Stack & Ecosystem
+# 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,html,css,tailwindcss,react,fastapi,spring,mysql,dotnet,docker,kubernetes,azure,pytorch,tensorflow,git,github,vscode&perline=9&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-<table>
-<tr>
-<td valign="top" width="50%" align="center">
+### Frontend
 
-**💻 Languages**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+### Backend
 
-**🎨 Frontend**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+### AI / Machine Learning
 
-**🤖 AI / Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+### Tools
 
-</td>
-<td valign="top" width="50%" align="center">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-**⚙️ Backend & Database**
+---
 
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+# 🚀 What I'm Building
 
-**☁️ DevOps & Deployment**
+### 🌐 Modern Web Experiences
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+I enjoy creating websites that combine **clean engineering with strong visual design**.
 
-**🛠️ Tools & Workflow**
+Currently exploring:
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+* React-based applications
+* Interactive interfaces
+* 3D web experiences
+* GSAP animations
+* Responsive UI systems
+* Smooth scrolling & scroll-based interactions
 
-</td>
-</tr>
-</table>
+---
 
-</div>
+### 🤖 AI & Machine Learning
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
+I'm gradually moving beyond traditional development into intelligent systems.
 
-## 📊 GitHub Analytics
+Currently exploring:
 
-<div align="center">
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Computer Vision
+      ↓
+AI-powered Applications
+      ↓
+AI + Software Engineering
+```
 
-<img src="https://github-readme-stats.vercel.app/api?username=amogha-m-s-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amogha-m-s-16&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" width="48%" />
+My goal is not just to train models, but to understand how AI can be integrated into **real software products**.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogha-m-s-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=c9d1d9" width="40%" />
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogha-m-s-16&theme=tokyo-night&bg_color=0d1117&color=2DD4BF&line=2DD4BF&point=ffffff&hide_border=true" width="98%" />
+### 🧩 Data Structures & Algorithms
 
-</div>
+I regularly practice DSA to strengthen my problem-solving fundamentals.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
+```text
+Understand the Problem
+        ↓
+Find the Pattern
+        ↓
+Design the Approach
+        ↓
+Write the Code
+        ↓
+Analyze Complexity
+        ↓
+Optimize
+        ↓
+Repeat
+```
 
-## ⭐ Featured Focus Areas
+Areas I'm working with:
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Recursion` · `Sorting` · `Searching` · `Dynamic Programming`
 
-### 🌐 Full-Stack Apps
-React frontends paired with FastAPI / Spring Boot backends and PostgreSQL for reliable, end-to-end applications.
+---
 
-</td>
-<td width="33%" align="center">
+# 📌 Featured Projects
 
-### 🐳 Containerized Deployments
-Packaging services with Docker and orchestrating them with Kubernetes for scalable, resilient infra.
+## 🤖 Neuro Forge
 
-</td>
-<td width="33%" align="center">
+**College Robotics Club Website**
 
-### 🤖 Machine Learning
-Building and training models with PyTorch and TensorFlow, from experimentation to deployment.
+A modern robotics-club web experience focused on interactive design, 3D elements and responsive interfaces.
 
-</td>
-</tr>
-</table>
+**Tech:** `React` · `JavaScript` · `Three.js` · `GSAP` · `Tailwind CSS`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%" width="100%"/>
+---
 
-## 🤝 Let's Connect & Collaborate
+## 🧠 DSA
 
-<div align="center">
+A growing collection of **Data Structures & Algorithms** implementations and problem-solving approaches.
 
-I'm always up for interesting projects, good ideas, and great collaborations — let's build something! 🚀
+**Tech:** `C++` · `Algorithms` · `Data Structures`
 
-<a href="https://www.linkedin.com/amogha-m-s-529014378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="amoghams123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/amogha-m-s-16" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
 
-<br/><br/>
+## ⚡ More Coming
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+I'm constantly experimenting with:
 
-<br/>
+* Full-stack applications
+* AI/ML projects
+* Backend APIs
+* Computer vision
+* Interactive web experiences
+* Developer tools
+* Experimental projects
 
+> `BUILDING...`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,25&section=footer" width="100%"/>
+---
 
-</div>
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amogha-m-s-16&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogha-m-s-16&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amogha-m-s-16&hide_border=true" />
+</p>
+
+---
+
+# 🧭 My Developer Journey
+
+```text
+              LEARN
+                │
+                ▼
+             EXPLORE
+                │
+                ▼
+              BUILD
+                │
+                ▼
+              DEBUG
+                │
+                ▼
+             OPTIMIZE
+                │
+                ▼
+               SHIP
+                │
+                ▼
+              REFLECT
+                │
+                └───────────────► REPEAT
+```
+
+I believe becoming a better developer isn't about knowing every technology.
+
+It's about being able to **understand problems, learn quickly, build reliable solutions, and keep improving**.
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  💻  Software Engineering                                 │
+│  🧩  Data Structures & Algorithms                          │
+│  🤖  Artificial Intelligence & Machine Learning             │
+│  🌐  Full-Stack Development                                │
+│  ⚙️  Backend Engineering                                   │
+│  🎨  Modern Web Experiences                                │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌱 Beyond Code
+
+I don't want to simply write code.
+
+I want to understand **why systems work**, build things that people can actually use, and continuously move from:
+
+**Learning → Building → Failing → Understanding → Improving**
+
+---
+
+# 📫 Let's Connect
+
+I'm always interested in connecting with developers, builders and people working on interesting technology.
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Build. Break. Learn. Repeat.
+
+<p align="center">
+  <i>Thanks for visiting my profile.</i>
+</p>
