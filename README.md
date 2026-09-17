@@ -45,8 +45,38 @@ I'm a developer who loves turning ideas into code.
 
 # ⚔️ Tech Arsenal
 
-### 💻 Languages
+### 🌐 Frontend & 3D
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,threejs&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,python&theme=dark" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,azure&theme=dark" />
+</p>
